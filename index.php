@@ -107,8 +107,8 @@
         <li><a href="#about">About</a></li>
         <li><a href="#services">Condominiums</a></li>
         <li><a href="#portfolio">House & Lot</a></li>
-        <li><a href="#pricing">Sign Up</a></li>
-        <li><a href="#contact">Log In</a></li>
+        <li><a href="#pricing">Commercial Spaces</a></li>
+        
       </ul>
     </div>
   </div>
