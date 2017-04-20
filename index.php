@@ -84,7 +84,9 @@
 		}
 		.navbar-default .navbar-nav>li>a{
 			color: aliceblue;
-			font-family:inherit; 
+			font-family:inherit;
+			font-size:large; 
+			
 		}
 	</style>
 <body>
