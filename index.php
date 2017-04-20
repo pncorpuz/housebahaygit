@@ -37,7 +37,7 @@
 	
 	<style>
 	.container-full-bg{
-		background-image: url('skycraper.jpg');
+		background-image: url('Style/images/skycraper.jpg');
     	background-size: cover;
 		display: block;	
 		height: 645px;
