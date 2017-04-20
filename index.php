@@ -83,7 +83,8 @@
 			transition-duration: 0s;
 		}
 		.navbar-default .navbar-nav>li>a{
-			color: white;
+			color: aliceblue;
+			font-family:inherit; 
 		}
 	</style>
 <body>
